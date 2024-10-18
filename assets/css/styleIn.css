@@ -1,0 +1,16 @@
+.list-card {
+    background-color: #ffffff;
+}
+
+.card.custom-card {
+    background-color: #ffffff;
+}
+
+.form-column {
+    background-color: #eeebe3;
+}
+
+#main-content {
+    margin-top: 120px; /* Sesuaikan dengan tinggi navbar Anda */
+    padding: 20px; /* Sesuaikan sesuai kebutuhan Anda */
+}
